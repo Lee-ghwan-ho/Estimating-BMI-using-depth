@@ -10,9 +10,9 @@
 ---
 ## 데이터셋 CROP
 - 1. 사람이 있는 부분만 CROP해서 사용
-
-![M0090102_M_22_1744_815](https://github.com/user-attachments/assets/f8f9c2d2-7ab9-49b2-933e-6f1b98be8fad)
-![0004_M_22_174400_8150000](https://github.com/user-attachments/assets/bac65396-cb3e-43e6-b925-5c13024999d7)
+<figure class="half">
+  ![M0090203_M_22_1744_815](https://github.com/user-attachments/assets/ce44a1c6-a3ee-4a1d-9a01-597cf63ddff0)
+  ![0004_M_22_174400_8150000](https://github.com/user-attachments/assets/bac65396-cb3e-43e6-b925-5c13024999d7)
 
 
 - 2. 우리 데이터에 맞게 이름 수정 ex) 0006_F_44_161100_5920000, 0035_F_33_167100_5230000
