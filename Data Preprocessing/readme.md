@@ -7,7 +7,7 @@ Data Preprocessing
 ## Reddit
 ---
 ## korean 
-- 1. 사람이 있는 부분만 CROP해서 사용
+  1. 사람이 있는 부분만 CROP해서 사용
   2. YOLOv8을 사용해 사람이 있는 부분만 Crop
   3. 원래 데이터셋 형식대로 이름 수정 (F0150105_F_51_1605_456 -> 0081_F_51_160500_4560000)
 <figure class="half">
