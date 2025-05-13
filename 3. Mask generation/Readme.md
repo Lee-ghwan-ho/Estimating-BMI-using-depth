@@ -1,7 +1,8 @@
 
 # Depth map에서 mask 추출  
 
-  - ![mask 구하기](https://github.com/user-attachments/assets/90947ee2-a109-465d-8ed3-00d8f8c25997)
+  - ![mask 구하기](https://github.com/user-attachments/assets/c41dbd65-18bf-4327-947e-fe5689e174ad)
+
 
 ---
 # mask를 출력 후 후처리 
