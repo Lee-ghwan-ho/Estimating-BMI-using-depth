@@ -1,10 +1,7 @@
-Data Preprocessing
-1. reddit
-2. korean (104,105~406까지 추출 (1.사람의 앞면 전신사진 -> 2.YOLOv8을 사용해 사람이 있는 부분만 Crop -> 3.원래 데이터셋 형식대로 이름 수정 )
-3. 
 # Data Preprocessing
 ---
 ## Reddit
+  1. 수집한 데이터셋을 두개의 이미지로 분리(f-16-58-156lbs.png and f-16-58-135lbs.png) 
 ---
 ## korean 
   1. 사람이 있는 부분만 CROP해서 사용
