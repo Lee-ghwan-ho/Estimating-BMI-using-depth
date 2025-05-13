@@ -1,7 +1,8 @@
 # Data Preprocessing
 ---
 ## Reddit
-  1. 수집한 데이터셋을 두개의 이미지로 분리(f-16-58-156lbs.png and f-16-58-135lbs.png) 
+  1. 데이터 크롤링 (F355'11_[235lbs__146.8lbs_=_88.2lbs]_took_me_4_years_in_total_with_2_pregnancies_inbetween..png)
+  2. 수집한 데이터셋을 두개의 이미지로 분리(f-16-58-156lbs.png and f-16-58-135lbs.png)
 ---
 ## korean 
   1. 사람이 있는 부분만 CROP해서 사용
