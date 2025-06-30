@@ -10,6 +10,7 @@
 
 ---
 # Depth map만을 학습한 mae 결과 
-![image](https://github.com/user-attachments/assets/4f94b559-ee50-4b51-ba5c-64fe6c0401e9)
+![image](https://github.com/user-attachments/assets/7e9f886d-872b-440b-addf-813f0fa95063)
+
 MAE : 3.0187
 ---
